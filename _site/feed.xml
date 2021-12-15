@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2021-12-16T05:01:45+09:00</updated>
+  <updated>2021-12-16T06:00:32+09:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,6 +18,70 @@
   
 
   
+  
+    <entry>
+      <title type="html">Post About Git</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Post About Git" />
+      <published>2021-12-16T00:00:00+09:00</published>
+      <updated>2021-12-16T00:00:00+09:00</updated>
+      <id>http://localhost:4000/post-about-git</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">First Test</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="First Test" />
+      <published>2021-12-16T00:00:00+09:00</published>
+      <updated>2021-12-16T00:00:00+09:00</updated>
+      <id>http://localhost:4000/first-test</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;#1&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">#1</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Project 1</title>
