@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="post">
-  {{page.categories}}
+  <b>{{page.categories}}</b>
   <h1 class="post-title">{{ page.title }}</h1>
   <h3>{{page.excerpt}}</h3>
   <div class="post-meta">
@@ -26,7 +26,7 @@ layout: default
       {% endfor %}
     {%- endif -%}
   </div>
-
+  <hr>
   {{ content }}
 
   {% if page.tags %}
