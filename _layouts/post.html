@@ -3,7 +3,9 @@ layout: default
 ---
 
 <article class="post">
+  {{page.categories}}
   <h1 class="post-title">{{ page.title }}</h1>
+  <h3>{{page.excerpt}}</h3>
   <div class="post-meta">
     {%- assign date_format = site.date_format | default: "%-d %b %Y" -%}
     <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: date_format }}</time>
