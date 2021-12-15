@@ -4,21 +4,21 @@
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.location }}</h3>
+                        <h3>Contact</h3>
                         <p>
-                            {% for adress in site.address %}
-                                {{ adress.line }} <br>
-		                    {% endfor %}
+                            mail: sb121300@naver.com <br>
+                            github: <a href="https://github.com/soosbk">waterb_</a>
+		                    
                         </p>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.social }}</h3>
+                        <h3>my page</h3>
                         <ul class="list-inline">
-                            {% for network in site.social %}
-                            <li>
-                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                           <li>
+                                <a href="https://github.com/soosbk" class="btn-social btn-outline"><i class="fab fa-github-square"></i></a>
+
                             </li>
-		                    {% endfor %}
+		                    
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
@@ -28,6 +28,7 @@
                 </div>
             </div>
         </div>
+        <!--=copyright 이니까 건들지 않는다-->
         <div class="footer-below">
             <div class="container">
                 <div class="row">
