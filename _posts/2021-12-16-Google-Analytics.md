@@ -81,7 +81,7 @@ analytics:
 <b>분석화면은 다음과 같다</b>
 <br><img width="466" alt="추적하기" src="https://user-images.githubusercontent.com/96071948/146376436-e3ccaa68-b7a7-4874-990b-594d1f648481.png"><br>
 * 1명의 활성화된 사용자 즉, 작성자인 본인이 계속 check하면서 조회 중이므로 다음과 같이 뜬다.
-[트래픽 보고서]
+<br>[트래픽 보고서]
 <br><img width="1440" alt="추적상세" src="https://user-images.githubusercontent.com/96071948/146376641-a3e66e9a-7b3c-41c5-a4d3-6feaf4d11ed6.png"><br>
 
 ### google analytics가 잘 수행되고 있는 지 실험해보기.
