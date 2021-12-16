@@ -55,8 +55,8 @@ analytics:
 ## 3. google-analytics.html 파일 수정
 _includes 폴더의 google-analytics.html을 수정한다.
 - 해당 코드는 웹 스트림 세부정보의 tag 정보에서 코드를 복사할 수 있다.
-<br><img width="1270" alt="googlehtml" src="https://user-images.githubusercontent.com/96071948/146365034-0cb65af9-e3e8-42a4-abf3-e16f5a8a1be4.png">
-<br>
+<br><img width="1270" alt="googlehtml" src="https://user-images.githubusercontent.com/96071948/146365034-0cb65af9-e3e8-42a4-abf3-e16f5a8a1be4.png"><br>
+
 ```bash
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-V67TYT065R"></script>
@@ -68,6 +68,7 @@ _includes 폴더의 google-analytics.html을 수정한다.
   gtag('config', 'G-V67TYT065R');
 </script>
 ```
+
 ## 4. 실행 화면
 <b>분석화면은 다음과 같다</b>
 <br><br>
