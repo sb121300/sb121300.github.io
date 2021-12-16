@@ -52,9 +52,12 @@ analytics:
     anonymize_ip         : # true, false (default)
 ```
 <br><img width="754" alt="7  config yml 수정" src="https://user-images.githubusercontent.com/96071948/146359077-b9042a70-481c-46e1-a469-623769cac5d5.png"><br>
+
 ## 3. google-analytics.html 파일 수정
+
 _includes 폴더의 google-analytics.html을 수정한다.
 - 해당 코드는 웹 스트림 세부정보의 tag 정보에서 코드를 복사할 수 있다.
+
 <br><img width="1270" alt="googlehtml" src="https://user-images.githubusercontent.com/96071948/146365034-0cb65af9-e3e8-42a4-abf3-e16f5a8a1be4.png"><br>
 
 
