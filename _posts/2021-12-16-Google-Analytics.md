@@ -70,17 +70,18 @@ _includes 폴더의 google-analytics.html을 수정한다.
 ```
 
 ## 4. html 상단에 include 하기
-조회하고자 하는 포스트들의 html <head> 태그 내에 
+포스트의 html <head> 태그 내에 
 
 ```bash
 <head>
     {% include google-analytics.html %}
-    <!-- more -->
+    
 </head>
 {% endraw %}
 ```
 을 추가한다.<br>
-##### ▶ 조회하고자 하는 page: post.html, page.html, home.html
+  ##### ▶ 해당 블로그의 head는 <b>head.html</b>에서 관리하기 때문에 해당 html에 추가한다.
+<br><img width="1182" alt="head tag" src="https://user-images.githubusercontent.com/96071948/146365822-d3d6e3cf-9e11-4c8a-ab71-7594c7870670.png"><br>
 ## 5. 실행 화면
 <b>분석화면은 다음과 같다</b>
 <br><br>
