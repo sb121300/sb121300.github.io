@@ -4,7 +4,7 @@ description: Web-Developer <br> Cryptograper
 url: https://sb121300.github.io
 avatar: /sbk.jpeg
 paginate: 5
-permalink: pretty
+permalink: /:categories/:title/
 cover_image: /bg.jpeg
 url: "https://sb121300.github.io/"
 asset_url: /assets

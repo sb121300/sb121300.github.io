@@ -118,13 +118,13 @@
                 </div>
 
                 <div class="pagination">
-                    dd
-                    <!--
-                    <span class="pagination-item older">Older</span>
-
-
-                    <span class="pagination-item newer">Newer</span>
-                        -->
+                    <ul>
+                        {% for post in site.posts %}
+                        <li>
+                            <a href="{{ post.url }}">{{ post.title }}</a>{{post.date}}
+                        </li>
+                        {% endfor %}
+                    </ul>
                 </div>
 
             </main>
