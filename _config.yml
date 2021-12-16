@@ -6,6 +6,7 @@ avatar: /sbk.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
+url: "https://sb121300.github.io/"
 asset_url: /assets
 # Gems
 plugins:
