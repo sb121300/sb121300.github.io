@@ -63,10 +63,10 @@ comments:
     shortname : "sb121300-github-io"
 
 
-  # Analytics
+# Analytics
 analytics:
   provider               : "google-gtag" 
                           # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-Q5KFRQ5674"
+    tracking_id          : "G-V67TYT065R"
     anonymize_ip         : # true, false (default)
