@@ -21,21 +21,21 @@ last_modified_at: 2021-12-16 01:08:25 +0800
 
 ### ② profile 등록과 new site를 등록한다.
 
-1) Profile 등록
+-1) Profile 등록
 <br>![1  profile](https://user-images.githubusercontent.com/96071948/146370152-06012b79-3435-4b92-bcc8-1e3ba06e8d60.png)<br>
-2) new site 등록
+-2) new site 등록
 
 **Website Name 에 블로그의 url을 기입한다.**
 <br><img width="700" alt="2  new_site" src="https://user-images.githubusercontent.com/96071948/146369500-d11b9ad6-6885-4c68-9dd2-19c9d952a345.png"><br>
 ### ③  **_config.yml** 파일 수정
 
-1) admin 사이트 접속
+-1) admin 사이트 접속
 <br><br>
-2) shortname 찾기
+-2) shortname 찾기
 
 shortname은 admin 메뉴로 들어갔을 때 url의 첫 부분이다.
 <br><img width="855" alt="3 shortname" src="https://user-images.githubusercontent.com/96071948/146369615-5570d20f-870a-4f3c-af7c-da1d68b8291e.png"><br>
-3) code 수정
+-3) code 수정
 
 ```html
 comments:
