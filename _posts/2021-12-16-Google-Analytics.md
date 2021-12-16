@@ -90,8 +90,8 @@ analytics:
 
 ### google analytics가 잘 수행되고 있는 지 실험해보기.
 - 네이버 웨일과 구글로 동시에 다른 메뉴를 접속해보았다.
-[실험화면]
+<br>[실험화면]
 <br><img width="1440" alt="추적 실험" src="https://user-images.githubusercontent.com/96071948/146378893-5e4d02dc-d3e2-4f20-b702-5db9401cdbc0.png"><br>
-[트래픽 보고서]
+<br>[트래픽 보고서]
 <br><img width="1440" alt="추적 실험2" src="https://user-images.githubusercontent.com/96071948/146378933-c26878a5-38ea-46dd-8016-131207c74af2.png"><br>
-▶ 결과적으로 2명이 메뉴에 잘 접속한 것이 조회되며 google analytics 연동이 잘 된 것으로 확인된다.
+<br>▶ 결과적으로 2명이 메뉴에 잘 접속한 것이 조회되며 google analytics 연동이 잘 된 것으로 확인된다.
