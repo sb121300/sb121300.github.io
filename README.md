@@ -66,7 +66,7 @@ gem install jekyll bundler
 
 [http://jekyllthemes.org/themes/not-pure-poole/](http://jekyllthemes.org/themes/not-pure-poole/) 
 
-**not pure poole** 테마 선정
+① **not pure poole** 테마 선정
 
 ② zip file 다운 후, 압축해제
 
