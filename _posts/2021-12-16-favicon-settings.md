@@ -60,7 +60,7 @@ url : [https://sb121300.github.io](https://sb121300.github.io/)
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 ```
-####[설정화면]
+#### [설정화면]
 <br><img width="542" alt="url" src="https://user-images.githubusercontent.com/96071948/146362041-680ecea8-01d2-4ed9-8ebe-f2a97d592914.png"><br>
 ## 3. 실행화면
 <br><img width="91" alt="favicon2" src="https://user-images.githubusercontent.com/96071948/146362047-a0f867d1-7eee-4076-b0e5-9b7e5a0867b7.png"><br>
