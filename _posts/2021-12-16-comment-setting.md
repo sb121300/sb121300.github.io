@@ -12,7 +12,7 @@ date: 2021-12-16
 last_modified_at: 2021-12-16 01:08:25 +0800
 ---
 
-> 이 포스트는 [https://velog.io/@eona1301/Github-Blog-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0](https://velog.io/@eona1301/Github-Blog-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0) 를 하고 있습니다.
+> 이 포스트는 [https://velog.io/@eona1301/Github-Blog-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0](https://velog.io/@eona1301/Github-Blog-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0) 를 참고하고 있습니다.
 > 
 
 ## 1. DISQUS 가입하기
