@@ -1,6 +1,6 @@
 # sb121300.github.io 빌드 과정 정리
 [github.io의 업로드된 빌드 과정](https://sb121300.github.io/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/first-post/)<br>
-[link to my [github.io](http://github.io/)] ([https://sb121300.github.io](https://sb121300.github.io/))
+[link to my [github.io](http://github.io/)] (https://sb121300.github.io/)
 
 - 사용 os: Mac-os
 - Visual Studio code3 & iTerm
