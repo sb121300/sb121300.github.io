@@ -1,4 +1,110 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2021-12-16T12:50:19+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Soobin-Kim</title><subtitle>Web-Developer &lt;br&gt; Cryptograper</subtitle><entry><title type="html">First Post</title><link href="http://localhost:4000/2021/12/16/first-post/" rel="alternate" type="text/html" title="First Post" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/2021/12/16/first-post</id><content type="html" xml:base="http://localhost:4000/2021/12/16/first-post/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Jekyll Admin</title><link href="http://localhost:4000/2021/12/16/Jekyll-admin/" rel="alternate" type="text/html" title="Jekyll Admin" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/2021/12/16/Jekyll-admin</id><content type="html" xml:base="http://localhost:4000/2021/12/16/Jekyll-admin/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Jekyll</title><link href="http://localhost:4000/2021/12/16/Jekyll/" rel="alternate" type="text/html" title="Jekyll" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/2021/12/16/Jekyll</id><content type="html" xml:base="http://localhost:4000/2021/12/16/Jekyll/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Markdown</title><link href="http://localhost:4000/2021/12/16/Markdown/" rel="alternate" type="text/html" title="Markdown" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/2021/12/16/Markdown</id><content type="html" xml:base="http://localhost:4000/2021/12/16/Markdown/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Git &amp;amp; Github</title><link href="http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/about-git/" rel="alternate" type="text/html" title="Git &amp;amp; Github" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/about-git</id><content type="html" xml:base="http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/about-git/">&lt;p&gt;hihihi&lt;/p&gt;</content><author><name>soobin Kim</name></author><category term="필수과제" /><category term="Git" /><category term="Github" /><summary type="html">특강에 다뤄졌던 내용 Topic 중 배운 내용에 관해 Post 작성 (10%) 주제</summary></entry><entry><title type="html">댓글 기능 추가하기</title><link href="http://localhost:4000/%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/2021/12/16/comment-setting/" rel="alternate" type="text/html" title="댓글 기능 추가하기" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T02:08:25+09:00</updated><id>http://localhost:4000/%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/2021/12/16/comment-setting</id><content type="html" xml:base="http://localhost:4000/%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/2021/12/16/comment-setting/">&lt;ol&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2021-12-16T18:02:24+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Soobin-Kim</title><subtitle>Web-Developer &lt;br&gt; Cryptograper</subtitle><entry><title type="html">github.io build 과정</title><link href="http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/first-post/" rel="alternate" type="text/html" title="github.io build 과정" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/first-post</id><content type="html" xml:base="http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/first-post/">&lt;p&gt;[link to my &lt;a href=&quot;http://github.io/&quot;&gt;github.io&lt;/a&gt;] (&lt;a href=&quot;https://sb121300.github.io/&quot;&gt;https://sb121300.github.io&lt;/a&gt;)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;사용 os: Mac-os&lt;/li&gt;
+  &lt;li&gt;Visual Studio code3 &amp;amp; iTerm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;1-githubio-생성&quot;&gt;1. &lt;a href=&quot;http://github.io&quot;&gt;github.io&lt;/a&gt; 생성&lt;/h2&gt;
+
+&lt;p&gt;① &lt;a href=&quot;http://github.io/&quot;&gt;github.io&lt;/a&gt; 레포지터리 생성&lt;/p&gt;
+
+&lt;p&gt;② 원격저장소와 로컬 저장소 연결하기&lt;/p&gt;
+
+&lt;p&gt;로컬에서 원격저장소를 clone할 로컬 저장소를 생성한 후, 생성된 로컬 저장소에 git clone 합니다.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;mkdir&lt;/span&gt; &amp;lt;저장소 이름&amp;gt;
+&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; &amp;lt;저장소 이름&amp;gt; &lt;span class=&quot;c&quot;&gt;#연결할 로컬 저장소 생성 후, 이동&lt;/span&gt;
+
+git init
+git clone &lt;span class=&quot;s2&quot;&gt;&quot;git저장소 url&quot;&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;#원격 저장소와 로컬 저장소 연결&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;2-jekyll-환경-설정&quot;&gt;2. Jekyll 환경 설정&lt;/h2&gt;
+
+&lt;p&gt;① ruby 가장 최근의 version으로 버전 변경&lt;/p&gt;
+
+&lt;p&gt;Mac os의 경우에는 ruby가 이미 설치되어 있기 때문에 업데이트 과정을 거치면 된다.&lt;/p&gt;
+
+&lt;p&gt;ruby의 버전을 변경하기 위해 rbenv를 사용한다.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;brew update &lt;span class=&quot;c&quot;&gt;#brew를 이용해 rbenv를 설치하기 때문에 사전에 update한다.&lt;/span&gt;
+brew &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;rbenv ruby-build &lt;span class=&quot;c&quot;&gt;#rbenv install&lt;/span&gt;
+rbenv &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-l&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;#ruby 버전들 확인&lt;/span&gt;
+rbenv &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;3.0.3 &lt;span class=&quot;c&quot;&gt;#가장 최근 버전인 3.0.3을 설치한다.&lt;/span&gt;
+rbenv global 3.0.3
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;발생하는 에러:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ERROR:  While executing gem … (Gem::FilePermissionError)&lt;/p&gt;
+
+&lt;p&gt;→ 환경 변수 설정을 통해 해결해준다.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;# rbenv&apos;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; ~/.bash_profile 
+&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;export PATH=~/.rbenv/bin:$PATH&apos;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; ~/.bash_profile 
+&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;eval &quot;$(rbenv init -)&quot;&apos;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; ~/.bash_profile 
+&lt;span class=&quot;c&quot;&gt;#bash container를 사용하기 때문에 bash_profile에 저장한다.&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;source&lt;/span&gt; ~/.bash_profile
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://happymemoryies.tistory.com/21&quot;&gt;https://happymemoryies.tistory.com/21&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;② jekyll bundler 설치&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;jekyll bundler
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;3-jekyll-테마-정하기&quot;&gt;3. Jekyll 테마 정하기&lt;/h2&gt;
+
+&lt;p&gt;강사님께서 제공한 &lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;http://jekyllthemes.org/&lt;/a&gt; 사이트에서 blog posting에 적절한 테마를 찾습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jekyllthemes.org/themes/not-pure-poole/&quot;&gt;http://jekyllthemes.org/themes/not-pure-poole/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;not pure poole&lt;/strong&gt; 테마 선정&lt;/p&gt;
+
+&lt;p&gt;② zip file 다운 후, 압축해제&lt;/p&gt;
+
+&lt;p&gt;③ sb121300.github.io에 압축해제한 file들을 모두 복사 붙여넣기 합니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-blog-기본-설정&quot;&gt;4. Blog 기본 설정&lt;/h2&gt;
+
+&lt;p&gt;Blog 의 기본 설정을 담당하는 로그 파일은 &lt;strong&gt;_config.yml&lt;/strong&gt; 입니다.&lt;/p&gt;
+
+&lt;p&gt;해당 파일에서 주소와 img 기본 설정, post 기본 설정을 만들고자 하는 블로그 주소에 맞게 수정하였습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;5-serve-code&quot;&gt;5. serve code&lt;/h2&gt;
+
+&lt;p&gt;bundle 라이브러리를 이용해 Blog의 변경사항을 실시간으로 볼 수 있다.&lt;/p&gt;
+
+&lt;p&gt;[code]&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle &lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;jekyll serve
+
+또는 
+bundle &lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;jekyll serve &lt;span class=&quot;nt&quot;&gt;--trace&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;발생 에러
+    &lt;ul&gt;
+      &lt;li&gt;`require’: cannot load such file – webrick (LoadError)&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  bundle add webrick
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;6-원격-저장소에-push--블로그-호스팅하기&quot;&gt;6. 원격 저장소에 push &amp;amp; 블로그 호스팅하기&lt;/h2&gt;
+
+&lt;p&gt;원격 저장소에 push 한다.&lt;/p&gt;
+
+&lt;p&gt;처음 push를 하는 경우 personal token을 이용해 로그인 한 뒤 push 할 수 있다&lt;/p&gt;</content><author><name>soobin Kim</name></author><category term="필수과제" /><category term="github" /><category term="Jekyll" /><summary type="html">github.io build</summary></entry><entry><title type="html">Jekyll Admin</title><link href="http://localhost:4000/2021/12/16/Jekyll-admin/" rel="alternate" type="text/html" title="Jekyll Admin" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/2021/12/16/Jekyll-admin</id><content type="html" xml:base="http://localhost:4000/2021/12/16/Jekyll-admin/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Jekyll</title><link href="http://localhost:4000/2021/12/16/Jekyll/" rel="alternate" type="text/html" title="Jekyll" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/2021/12/16/Jekyll</id><content type="html" xml:base="http://localhost:4000/2021/12/16/Jekyll/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Markdown</title><link href="http://localhost:4000/2021/12/16/Markdown/" rel="alternate" type="text/html" title="Markdown" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/2021/12/16/Markdown</id><content type="html" xml:base="http://localhost:4000/2021/12/16/Markdown/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Git &amp;amp; Github</title><link href="http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/about-git/" rel="alternate" type="text/html" title="Git &amp;amp; Github" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/about-git</id><content type="html" xml:base="http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/about-git/">&lt;p&gt;hihihi&lt;/p&gt;</content><author><name>soobin Kim</name></author><category term="필수과제" /><category term="Git" /><category term="Github" /><summary type="html">특강에 다뤄졌던 내용 Topic 중 배운 내용에 관해 Post 작성 (10%) 주제</summary></entry><entry><title type="html">댓글 기능 추가하기</title><link href="http://localhost:4000/%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/2021/12/16/comment-setting/" rel="alternate" type="text/html" title="댓글 기능 추가하기" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T02:08:25+09:00</updated><id>http://localhost:4000/%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/2021/12/16/comment-setting</id><content type="html" xml:base="http://localhost:4000/%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/2021/12/16/comment-setting/">&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;참고자료
 https://velog.io/@eona1301/Github-Blog-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0&lt;/p&gt;
