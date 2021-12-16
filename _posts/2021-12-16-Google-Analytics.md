@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: google analytics
@@ -11,7 +10,7 @@ tags:
 - Jekyll
 date: 2021-12-16
 ---
-# google analytics
+
 > 이 post는 [https://velog.io/@eona1301/Github-Blog-방문자-통계Analytics하기](https://velog.io/@eona1301/Github-Blog-%EB%B0%A9%EB%AC%B8%EC%9E%90-%ED%86%B5%EA%B3%84Analytics%ED%95%98%EA%B8%B0) 를 참고하고 있습니다.
 > 
 
