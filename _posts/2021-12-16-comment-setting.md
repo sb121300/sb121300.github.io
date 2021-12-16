@@ -85,3 +85,10 @@ comments:
 <br>
 <img width="1326" alt="8 댓글예시" src="https://user-images.githubusercontent.com/96071948/146369647-16d822c1-1234-4780-8951-6952dbd8668c.png"><br>
 <b>DISQUS</b>의 <b>admin</b>으로 접속하면 그동안 기록되었던 comment를 볼 수 있다.
+
+#### 다른 계정으로 test 해보기
+### [댓글 화면]
+<br><img width="996" alt="다른계정으로test1" src="https://user-images.githubusercontent.com/96071948/146385616-ca1cc0ce-0899-4c6d-a0a3-80c036f55abe.png"><br>
+### [DisQus에서 댓글 조회]
+<br><img width="1365" alt="다른계정으로test2" src="https://user-images.githubusercontent.com/96071948/146385642-910acf97-9664-472e-9500-bccff1bbaab2.png"><br>
+▶ 다른 계정으로 작성한 댓글이 잘 조회 되는 것으로 보아 잘 설정된 것으로 확인된다.
