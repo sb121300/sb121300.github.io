@@ -1,7 +1,8 @@
-- title: Blog
-  url: /
 - title: About Me
   url: /about/
+- title: Post
+  url: /
+
 
 - title: Portfolio
   url: https://c11.kr/waterb_portfolio_

@@ -1,6 +1,11 @@
 - title: GitHub
   url: https://github.com/vszhub/not-pure-poole
   icon: fab fa-github
+
+- title: "Email"
+  url: mailto:soobin851@email.com
+  icon: "fas fa-fw fa-envelope-square"
+  
 - title: tistory
   url: https://mypage-dream.tistory.com/
   icon: fas fa-archive
