@@ -22,7 +22,7 @@ date: 2021-12-16
 
 ② 원격저장소와 로컬 저장소 연결하기
 
- 로컬에서 원격저장소를 clone할 로컬 저장소를 생성한 후, 생성된 로컬 저장소에 git clone 합니다.
+ 로컬에서 원격저장소를 clone할 로컬 저장소를 생성한 후, 생성된 로컬 저장소에 git clone 다.
 
 ```bash
 mkdir <저장소 이름>
@@ -72,7 +72,7 @@ gem install jekyll bundler
 
 ## 3. Jekyll 테마 정하기
 
-강사님께서 제공한 [http://jekyllthemes.org/](http://jekyllthemes.org/) 사이트에서 blog posting에 적절한 테마를 찾습니다.
+강사님께서 제공한 [http://jekyllthemes.org/](http://jekyllthemes.org/) 사이트에서 blog posting에 적절한 테마를 찾는다.
 
 [http://jekyllthemes.org/themes/not-pure-poole/](http://jekyllthemes.org/themes/not-pure-poole/) 
 
@@ -80,13 +80,13 @@ gem install jekyll bundler
 
 ② zip file 다운 후, 압축해제
 
-③ sb121300.github.io에 압축해제한 file들을 모두 복사 붙여넣기 합니다. 
+③ sb121300.github.io에 압축해제한 file들을 모두 복사 붙여넣기 한다. 
 
 ## 4. Blog 기본 설정
 
 Blog 의 기본 설정을 담당하는 로그 파일은 **_config.yml** 입니다.
 
-해당 파일에서 주소와 img 기본 설정, post 기본 설정을 만들고자 하는 블로그 주소에 맞게 수정하였습니다.
+해당 파일에서 주소와 img 기본 설정, post 기본 설정을 만들고자 하는 블로그 주소에 맞게 수정다.
 
 ## 5. serve code
 
