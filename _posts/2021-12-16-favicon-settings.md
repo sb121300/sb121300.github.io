@@ -46,7 +46,7 @@ custom-head.html의 경로: /sb121300.github.io/_includes/custom-head.html
 -1) **_config.yml** 파일에서 base url을 설정한다.
 
 ```html
-url : [https://sb121300.github.io](https://sb121300.github.io/)
+url : https://sb121300.github.io
 ```
 
 -2) 다음과 같이 base url에서 시작하도록 경로를 수정한다.
