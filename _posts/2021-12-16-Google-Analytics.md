@@ -69,6 +69,18 @@ _includes 폴더의 google-analytics.html을 수정한다.
 </script>
 ```
 
-## 4. 실행 화면
+## 4. html 상단에 include 하기
+조회하고자 하는 포스트들의 html <head> 태그 내에 
+
+```bash
+<head>
+    {% include google-analytics.html %}
+    <!-- more -->
+</head>
+{% endraw %}
+```
+을 추가한다
+▶ 조회하고자 하는 page: post.html, page.html, home.html
+## 5. 실행 화면
 <b>분석화면은 다음과 같다</b>
 <br><br>
