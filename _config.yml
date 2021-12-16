@@ -6,6 +6,7 @@ avatar: /sbk.jpeg
 permalink: pretty
 cover_image: /bg.jpeg
 asset_url: /assets
+author: soobin Kim
 # Gems
 plugins:
   - jekyll-gist
