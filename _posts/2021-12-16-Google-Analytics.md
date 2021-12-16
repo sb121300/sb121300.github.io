@@ -73,11 +73,7 @@ analytics:
 
 
 ### ③ html 상단에 include 하기
-포스트의 html <head> 태그 내에 
-```html
-{% include google-analytics.html %}
-```
-을 추가한다.<br>
+포스트의 html <head> 태그 내에 <b><u>google-analytics.html</u></b>을 추가한다.<br>
   
   
 <br><img width="1182" alt="head tag" src="https://user-images.githubusercontent.com/96071948/146365822-d3d6e3cf-9e11-4c8a-ab71-7594c7870670.png"><br>
