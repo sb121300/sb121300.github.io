@@ -65,7 +65,7 @@ paginate: 20
 comments:
   provider: "disqus" 
   disqus:
-    shortname : "sb121300-github-io"
+    shortname : "https-sb121300-github-io"
 
 
 
