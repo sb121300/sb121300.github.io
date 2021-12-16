@@ -6,7 +6,11 @@ avatar: /sbk.jpeg
 permalink: pretty
 cover_image: /bg.jpeg
 asset_url: /assets
-author: soobin Kim
+author:
+  name: soobin Kim
+  url: https://github.com/sb121300
+  email: sb121300@naver.com
+
 # Gems
 plugins:
   - jekyll-gist
