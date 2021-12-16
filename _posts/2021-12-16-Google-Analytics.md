@@ -73,7 +73,7 @@ google-analytics.html 파일 수정
 
 
 
-## 4. html 상단에 include 하기
+### ③ html 상단에 include 하기
 포스트의 html <head> 태그 내에 
 ```html
 {% include google-analytics.html %}
@@ -82,7 +82,7 @@ google-analytics.html 파일 수정
   
   
 <br><img width="1182" alt="head tag" src="https://user-images.githubusercontent.com/96071948/146365822-d3d6e3cf-9e11-4c8a-ab71-7594c7870670.png"><br>
-## 5. 실행 화면
+## 4. 실행 화면
 <b>분석화면은 다음과 같다</b>
 <br><img width="466" alt="추적하기" src="https://user-images.githubusercontent.com/96071948/146376436-e3ccaa68-b7a7-4874-990b-594d1f648481.png"><br>
 * 1명의 활성화된 사용자 즉, 작성자인 본인이 계속 check하면서 조회 중이므로 다음과 같이 뜬다.
