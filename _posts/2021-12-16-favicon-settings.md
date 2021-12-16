@@ -15,7 +15,7 @@ date: 2021-12-16
 > 이 포스트는 [https://min9nim.github.io/2018/03/add-favicon/](https://min9nim.github.io/2018/03/add-favicon/)
 > 
 
-> [https://velog.io/@eona1301/Github-Blog-파비콘Favicon-세팅하기](https://velog.io/@eona1301/Github-Blog-%ED%8C%8C%EB%B9%84%EC%BD%98Favicon-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0) 를 인용하고 있습니다.
+> [https://velog.io/@eona1301/Github-Blog-파비콘Favicon-세팅하기](https://velog.io/@eona1301/Github-Blog-%ED%8C%8C%EB%B9%84%EC%BD%98Favicon-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0) 를 참고하고 있습니다.
 > 
 
 - 사용한 image는 다음과 같습니다.
