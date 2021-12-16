@@ -57,17 +57,6 @@ _includes 폴더의 google-analytics.html을 수정한다.
 - 해당 코드는 웹 스트림 세부정보의 tag 정보에서 코드를 복사할 수 있다.
 <br><img width="1270" alt="googlehtml" src="https://user-images.githubusercontent.com/96071948/146365034-0cb65af9-e3e8-42a4-abf3-e16f5a8a1be4.png"><br>
 
-```bash
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-V67TYT065R"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-V67TYT065R');
-</script>
-```
 
 ## 4. html 상단에 include 하기
 포스트의 html <head> 태그 내에 
