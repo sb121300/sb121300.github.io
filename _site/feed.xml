@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2021-12-16T18:15:16+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Soobin-Kim</title><subtitle>Web-Developer &lt;br&gt; Cryptograper</subtitle><entry><title type="html">github.io build 과정</title><link href="http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/first-post/" rel="alternate" type="text/html" title="github.io build 과정" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/first-post</id><content type="html" xml:base="http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/first-post/">&lt;p&gt;[link to my &lt;a href=&quot;http://github.io/&quot;&gt;github.io&lt;/a&gt;] (&lt;a href=&quot;https://sb121300.github.io/&quot;&gt;https://sb121300.github.io&lt;/a&gt;)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2021-12-16T18:58:38+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Soobin-Kim</title><subtitle>Web-Developer &lt;br&gt; Cryptograper</subtitle><entry><title type="html">github.io build 과정</title><link href="http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/first-post/" rel="alternate" type="text/html" title="github.io build 과정" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/first-post</id><content type="html" xml:base="http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/first-post/">&lt;p&gt;[link to my &lt;a href=&quot;http://github.io/&quot;&gt;github.io&lt;/a&gt;] (&lt;a href=&quot;https://sb121300.github.io/&quot;&gt;https://sb121300.github.io&lt;/a&gt;)&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;사용 os: Mac-os&lt;/li&gt;
@@ -104,7 +104,156 @@ bundle &lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;jekyll serve &lt;span 
 
 &lt;p&gt;원격 저장소에 push 한다.&lt;/p&gt;
 
-&lt;p&gt;처음 push를 하는 경우 personal token을 이용해 로그인 한 뒤 push 할 수 있다&lt;/p&gt;</content><author><name>soobin Kim</name></author><category term="필수과제" /><category term="github" /><category term="Jekyll" /><summary type="html">github.io build</summary></entry><entry><title type="html">Jekyll Admin</title><link href="http://localhost:4000/2021/12/16/Jekyll-admin/" rel="alternate" type="text/html" title="Jekyll Admin" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/2021/12/16/Jekyll-admin</id><content type="html" xml:base="http://localhost:4000/2021/12/16/Jekyll-admin/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Jekyll</title><link href="http://localhost:4000/2021/12/16/Jekyll/" rel="alternate" type="text/html" title="Jekyll" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/2021/12/16/Jekyll</id><content type="html" xml:base="http://localhost:4000/2021/12/16/Jekyll/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Markdown</title><link href="http://localhost:4000/2021/12/16/Markdown/" rel="alternate" type="text/html" title="Markdown" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/2021/12/16/Markdown</id><content type="html" xml:base="http://localhost:4000/2021/12/16/Markdown/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Git &amp;amp; Github</title><link href="http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/about-git/" rel="alternate" type="text/html" title="Git &amp;amp; Github" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/about-git</id><content type="html" xml:base="http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/about-git/">&lt;p&gt;hihihi&lt;/p&gt;</content><author><name>soobin Kim</name></author><category term="필수과제" /><category term="Git" /><category term="Github" /><summary type="html">특강에 다뤄졌던 내용 Topic 중 배운 내용에 관해 Post 작성 (10%) 주제</summary></entry><entry><title type="html">댓글 기능 추가하기</title><link href="http://localhost:4000/%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/2021/12/16/comment-setting/" rel="alternate" type="text/html" title="댓글 기능 추가하기" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T02:08:25+09:00</updated><id>http://localhost:4000/%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/2021/12/16/comment-setting</id><content type="html" xml:base="http://localhost:4000/%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/2021/12/16/comment-setting/">&lt;ol&gt;
+&lt;p&gt;처음 push를 하는 경우 personal token을 이용해 로그인 한 뒤 push 할 수 있다&lt;/p&gt;</content><author><name>soobin Kim</name></author><category term="필수과제" /><category term="github" /><category term="Jekyll" /><summary type="html">github.io build</summary></entry><entry><title type="html">Jekyll Admin</title><link href="http://localhost:4000/2021/12/16/Jekyll-admin/" rel="alternate" type="text/html" title="Jekyll Admin" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/2021/12/16/Jekyll-admin</id><content type="html" xml:base="http://localhost:4000/2021/12/16/Jekyll-admin/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Jekyll</title><link href="http://localhost:4000/2021/12/16/Jekyll/" rel="alternate" type="text/html" title="Jekyll" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/2021/12/16/Jekyll</id><content type="html" xml:base="http://localhost:4000/2021/12/16/Jekyll/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Markdown</title><link href="http://localhost:4000/2021/12/16/Markdown/" rel="alternate" type="text/html" title="Markdown" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/2021/12/16/Markdown</id><content type="html" xml:base="http://localhost:4000/2021/12/16/Markdown/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Git &amp;amp; Github</title><link href="http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/about-git/" rel="alternate" type="text/html" title="Git &amp;amp; Github" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T00:00:00+09:00</updated><id>http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/about-git</id><content type="html" xml:base="http://localhost:4000/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C/2021/12/16/about-git/">&lt;h1 id=&quot;git-and-github&quot;&gt;Git and Github&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;이 포스터는 Git 공식 문서와 github 공식 docs 를 인용하고 있습니다.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git 공식문서: &lt;a href=&quot;http://naver.me/xXx4drXT&quot;&gt;http://naver.me/xXx4drXT&lt;/a&gt;&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;github 공식 docs: &lt;a href=&quot;https://docs.github.com/en/get-started/quickstart&quot;&gt;https://docs.github.com/en/get-started/quickstart&lt;/a&gt;&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;1-git-분산버전관리시스템&quot;&gt;1. Git (분산버전관리시스템)&lt;/h2&gt;
+
+&lt;p&gt;Git은 컴퓨터 파일의 변경 사항을 추적하고 협업시 다른 사람과 작업들을 같이 할 수 있는 시스템이다.&lt;/p&gt;
+
+&lt;p&gt;버전 관리 시스템 중 하나이다.&lt;/p&gt;
+
+&lt;h3 id=&quot;-버전-관리-시스템&quot;&gt;① 버전 관리 시스템&lt;/h3&gt;
+
+&lt;p&gt;파일 변화를 기록 하며, 특정 시점의 버전을 다시 꺼내올 수 있는 시스템이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[분산버전관리시스템의 구조]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2-github&quot;&gt;2. Github&lt;/h2&gt;
+
+&lt;h3 id=&quot;-github-사용-이유&quot;&gt;① Github 사용 이유&lt;/h3&gt;
+
+&lt;p&gt;★ 버전관리가 필요한 이유?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;파일을 이전 상태로 되돌리는 것이 가능하게 해야한다.&lt;/li&gt;
+  &lt;li&gt;문제를 만든 이를 추적한다.&lt;/li&gt;
+  &lt;li&gt;이슈를 만든 이를 추적한다.&lt;/li&gt;
+  &lt;li&gt;시간에 따른 중간 과정을 추적할 수 있어야 한다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;→ 특정 시점의 버전을 불러 올 수 있는 시스템이 필요하다.&lt;/p&gt;
+
+&lt;h3 id=&quot;github란&quot;&gt;Github란?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Git을 지원하는 웹 호스팅 서비스&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;--github-사용방법&quot;&gt;②  Github 사용방법&lt;/h3&gt;
+
+&lt;p&gt;1) 원격 저장소 생성 및 로컬 저장소로 복제&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git init &lt;span class=&quot;c&quot;&gt;#git 관리 폴더가 숨긴 폴더로 생성된다.&lt;/span&gt;
+git clone 사용자명@호스트:/원격/저장소/경로
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;2) 로컬 저장소에서 원격 저장소로 업로드&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;staging, commit, push&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git add &amp;lt;저장할 파일&amp;gt; &lt;span class=&quot;c&quot;&gt;#staging&lt;/span&gt;
+git commit &lt;span class=&quot;nt&quot;&gt;-option&lt;/span&gt; &amp;lt;commit ment&amp;gt; &lt;span class=&quot;c&quot;&gt;#commit&lt;/span&gt;
+git push origin
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;[Personal token 발급 방법]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;▶ 2021년 8월 13일 부로 github는 &lt;strong&gt;**&lt;/strong&gt;로그인 시 비밀번호를 사용하지 않고 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;personal token&lt;/code&gt;&lt;/strong&gt;을 이용한다&lt;/p&gt;
+
+&lt;p&gt;해당 에러 메세지를 만나게 된다.&lt;/p&gt;
+
+&lt;aside&gt;
+💡  [error messages] **remote: support for password authentication was removed on august 13, 2021. please use a personal access token instead**
+
+&lt;/aside&gt;
+
+&lt;p&gt;▶ 방법&lt;/p&gt;
+
+&lt;p&gt;ⅰ. 개인 settings 메뉴에서 Developer settings 메뉴에 접근한다.&lt;/p&gt;
+
+&lt;p&gt;ⅱ. Personal access tokens » Generate new token 을 통해 token을 생성한다.&lt;/p&gt;
+
+&lt;p&gt;ⅲ. 필요한 기능을 추가하여 token을 생성할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;기능의 추가 및 삭제는 추후에도 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;ⅳ. 생성 후 나오는 persnal token을 복사한다.&lt;/p&gt;
+
+&lt;p&gt;★ persnal token은 단 한 번만 보여주므로 복사를 반드시 해야한다.&lt;/p&gt;
+
+&lt;p&gt;ⅴ. git push 시 비밀번호 입력 란에 복사한 token을 붙여넣기 한다.&lt;/p&gt;
+
+&lt;p&gt;3) 원격 저장소에서 로컬 저장소로 이동하기&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git pull
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;-branch&quot;&gt;③ branch&lt;/h3&gt;
+
+&lt;p&gt;Branch를 여러 개로 사용하면서 여러 사용자가 동시에 작업을 할수 있다&lt;/p&gt;
+
+&lt;p&gt;1) branch 생성&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git branch &lt;span class=&quot;nt&quot;&gt;-m&lt;/span&gt; &amp;lt;branch name&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;2) branch 병합&lt;/p&gt;
+
+&lt;p&gt;간단하게 병합을 하는 방법: github 사이트에 들어가서 merge 한다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Able automobile merged: 공통 라인을 작업하지 않은 경우 자동적으로 merge할 수 있다.&lt;/li&gt;
+  &lt;li&gt;can’t automobile merged: 수정사항에 대해 라인 중복등이 이유로 수동으로 merge 해야한다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-gitignore&quot;&gt;④ .gitignore&lt;/h3&gt;
+
+&lt;p&gt;로컬 저장소에서 원격 저장소로 push 할 시,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;공유되면 안되는 개인적인 파일&lt;/li&gt;
+  &lt;li&gt;프로젝트 진행 시 생기는 임시 파일&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ex)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;컴파일 및 빌드 시 자동으로 생기는 파일&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;개발 툴에 의해서 생기는 설정 파일&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;github에 업로드 할 필요 없는 파일&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;위의 파일이 원격 저장소에 add되지 않게 미연에 방지하는 파일이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[생성방법]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;저장소 생성시 지정&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/developers/gitignore&quot;&gt;gitignore.io&lt;/a&gt;에서 원하는 시스템을 검색하여 txt 생성 후 github storage에 저장&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ex. mac-os, jekyll&lt;/p&gt;</content><author><name>soobin Kim</name></author><category term="필수과제" /><category term="Git" /><category term="Github" /><summary type="html">특강에 다뤄졌던 내용 Topic 중 배운 내용에 관해 Post 작성 (10%) 주제</summary></entry><entry><title type="html">댓글 기능 추가하기</title><link href="http://localhost:4000/%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/2021/12/16/comment-setting/" rel="alternate" type="text/html" title="댓글 기능 추가하기" /><published>2021-12-16T00:00:00+09:00</published><updated>2021-12-16T02:08:25+09:00</updated><id>http://localhost:4000/%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/2021/12/16/comment-setting</id><content type="html" xml:base="http://localhost:4000/%EC%B6%94%EA%B0%80%EA%B3%BC%EC%A0%9C/2021/12/16/comment-setting/">&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;참고자료
 https://velog.io/@eona1301/Github-Blog-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0&lt;/p&gt;
