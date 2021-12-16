@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Favicon 하기
+title: Favicon 추가하기
 excerpt: "사이트에 favicon 추가"
 author: soobin Kim
 categories:
