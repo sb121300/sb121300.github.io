@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Favicon 세팅하기
-excerpt: "(추가과제) 사이트에 favicon 추가"
+excerpt: "사이트에 favicon 추가"
 author: soobin Kim
 categories:
-  - euraka
+  - 추가과제
 tags:
 - favicon
 - Jekyll

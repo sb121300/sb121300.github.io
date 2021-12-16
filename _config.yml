@@ -45,7 +45,7 @@ sass:
 
 
 #page
-paginate: 5
+paginate: 20
 
 
 # Options
@@ -57,17 +57,10 @@ paginate: 5
 # disqus: xxxxxx
 
 # Specify the author for blog posts
-author:
-  name: Soobin Kim
-  url: https://github.com/soosbk/
-  email: soobin851@gmail.com
-
 comments:
-  provider    : "disqus"                                # comment 처리 사이트 명칭 기재
-  
+  provider: "disqus" 
   disqus:
-    shortname : "sb121300-github-io"                    # disqus의 shortname 기재
-
+    shortname : "sb121300"
 # Defaults
 defaults:
   # _posts
@@ -78,11 +71,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments:  true
+      comments: true                                  
       share: true
       related: true
   
-  # _pages                      : 해당 하단 영역이 새로 추가되었습니다.
+  # _pages
   - scope:
       path: "_pages"
       type: pages
