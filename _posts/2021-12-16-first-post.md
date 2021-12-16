@@ -114,3 +114,6 @@ bundle exec jekyll serve --trace
  원격 저장소에 push 한다.
 
 처음 push를 하는 경우 personal token을 이용해 로그인 한 뒤 push 할 수 있다
+
+### [실행 화면]
+![git-main](https://user-images.githubusercontent.com/96071948/146340054-96f0512a-8da9-44eb-8610-618b696a6d15.png)
