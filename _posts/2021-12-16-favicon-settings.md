@@ -9,9 +9,10 @@ tags:
 - favicon
 - Jekyll
 date: 2021-12-16
+last_modified_at: 2021-12-16 01:08:25 +0800
 ---
 
-0. 참고 자료
+> 참고 자료
 https://velog.io/@eona1301/Github-Blog-파비콘Favicon-세팅하기
 
 https://min9nim.github.io/2018/03/add-favicon/
