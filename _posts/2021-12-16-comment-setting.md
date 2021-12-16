@@ -84,4 +84,4 @@ comments:
 ### [DisQus에서 댓글 조회]
 <br>
 <img width="1326" alt="8 댓글예시" src="https://user-images.githubusercontent.com/96071948/146369647-16d822c1-1234-4780-8951-6952dbd8668c.png"><br>
-**DISQUS** 의 **admin** 으로 접속하면 그동안 기록되었던 comment를 볼 수 있다.
+**DISQUS**의 **admin**으로 접속하면 그동안 기록되었던 comment를 볼 수 있다.
