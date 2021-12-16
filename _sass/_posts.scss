@@ -1,31 +1,40 @@
-// Posts and pages
-//
-// Each post is wrapped in `.post` and is used on default and post layouts. Each
-// page is wrapped in `.page` and is only used on the page layout.
+// page, post css
 
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@100;400&family=Jua&display=swap');
 .post-entry {
   border-bottom: 1px solid var(--border-color);
   margin-bottom: var(--spacer-3);
 }
+.txt {
+  font-family: 'Hahmlet', serif;
+}
 
 .page,
 .post {
+  
+  color: black;
   font-family: var(--text-font);
   margin-bottom: 4em;
-
+  h2{
+    font-family: var(--body-font);
+    font-size: 26px;
+  }
   h1, h2, h3, h4, h5, h6, .post-meta {
     font-family: var(--body-font);
   }
+  
 
   li + li {
     margin-top: .25rem;
   }
 }
 
+
 // Blog post or page title
 .page-title,
 .post-title {
   color: var(--heading-color);
+  font-family: 'Jua', sans-serif;
 }
 .page-title,
 .post-title {
