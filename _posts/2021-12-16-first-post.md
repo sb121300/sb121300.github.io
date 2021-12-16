@@ -11,7 +11,7 @@ tags:
 date: 2021-12-16
 ---
 
-[link to my [github.io](http://github.io/)] ([https://sb121300.github.io](https://sb121300.github.io/))
+[link to my github.io](https://sb121300.github.io/)
 
 - 사용 os: Mac-os
 - Visual Studio code3 & iTerm
