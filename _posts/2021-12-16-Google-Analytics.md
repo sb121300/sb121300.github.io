@@ -20,11 +20,11 @@ date: 2021-12-16
 <br><img width="1414" alt="1 login" src="https://user-images.githubusercontent.com/96071948/146358801-1f392c09-d220-497e-b00e-6a5a1bbe23d4.png"><br>
 ### ② 계정을 설정한다.
 
-1) 관리할 계정 id를 등록한다.
+-1) 관리할 계정 id를 등록한다.
 <br><img width="1384" alt="2 new_accout" src="https://user-images.githubusercontent.com/96071948/146358820-f5bdf69d-9236-4744-ac36-b3da0835fc61.png"><br>
-2) 관리할 블로그 주소와 국가를 변경한다.
+-2) 관리할 블로그 주소와 국가를 변경한다.
 <br><img width="1399" alt="3 blog주소등록" src="https://user-images.githubusercontent.com/96071948/146358831-a988a925-d8a4-452b-8f16-03feb1a876da.png"><br>
-<b>3) 고급 옵션을 설정한다.</b>
+<b>-3) 고급 옵션을 설정한다.</b>
 <br><img width="1393" alt="3-2  고급옵션 설정" src="https://user-images.githubusercontent.com/96071948/146374514-fc7e4d43-08f3-404e-a6cd-9a5e9766d351.png"><br>
 
 ## 2. 추적 코드 확인 및 코드 수정
@@ -32,12 +32,12 @@ date: 2021-12-16
 
 ### ① _config.yml 수정
 
-1) 추적 id를 복사한다.
+-1) 추적 id를 복사한다.
 <br>
 <img width="1434" alt="추적id" src="https://user-images.githubusercontent.com/96071948/146375002-09cd45d8-5dfe-42bc-af6f-9459e7132f13.png">
 <br>
 
-2) 추적 id를 포함한 다음 코드를 **_config.yml** 에 추가한다.
+-2) 추적 id를 포함한 다음 코드를 **_config.yml** 에 추가한다.
 ```bash
 # Analytics
 analytics:
