@@ -24,13 +24,11 @@ date: 2021-12-16
 > 
 
 - 사용한 image는 다음과 같습니다.
-<br>![developer](https://user-images.githubusercontent.com/96071948/146361868-c01639fa-b38a-4698-9fcd-c80317c05367.png)
-<img width="542" alt="url" src="https://user-images.githubusercontent.com/96071948/146361874-651cd3a9-4661-40b1-acb1-54aa8f701647.png"><br>
+<br>![developer](https://user-images.githubusercontent.com/96071948/146361868-c01639fa-b38a-4698-9fcd-c80317c05367.png)<br>
 ## 1. [https://realfavicongenerator.net/](https://realfavicongenerator.net/) 에서 favicon 생성
 
 [생성된 화면]
-<br>![favicon](https://user-images.githubusercontent.com/96071948/146361876-d1a606a2-dd1c-48dc-affa-77eab4b06269.png)
-<img width="91" alt="favicon2" src="https://user-images.githubusercontent.com/96071948/146361887-f6bf94ad-14f7-4709-a232-06de49078107.png"><br>
+<br>![favicon](https://user-images.githubusercontent.com/96071948/146361876-d1a606a2-dd1c-48dc-affa-77eab4b06269.png)<br>
 → img 패키지를 저장하고 생성된 코드를 복사합니다.
 
 ## 2. 저장된 패키지 업로드
