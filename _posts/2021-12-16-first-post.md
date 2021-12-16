@@ -6,7 +6,7 @@ author: soobin Kim
 categories:
   - 필수과제
 tags:
-- github
+- Github
 - Jekyll
 date: 2021-12-16
 ---
