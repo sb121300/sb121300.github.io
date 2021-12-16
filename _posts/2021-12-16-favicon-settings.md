@@ -12,10 +12,7 @@ date: 2021-12-16
 ---
 # favicon
 
----
-# favicon
 
----
 
 > 이 포스트는 [https://min9nim.github.io/2018/03/add-favicon/](https://min9nim.github.io/2018/03/add-favicon/)
 > 
