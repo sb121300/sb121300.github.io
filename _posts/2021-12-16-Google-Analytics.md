@@ -47,7 +47,6 @@ analytics:
     tracking_id          : "{추적 id}"
     anonymize_ip         : # true, false (default)
 ```
-google-analytics.html 파일 수정
 
 [수행 화면]
 <br><img width="709" alt="추적 Id-visualcode" src="https://user-images.githubusercontent.com/96071948/146375568-425a770f-625c-4907-9ccb-6d88aa7eb31f.png"><br>
@@ -86,6 +85,13 @@ google-analytics.html 파일 수정
 <b>분석화면은 다음과 같다</b>
 <br><img width="466" alt="추적하기" src="https://user-images.githubusercontent.com/96071948/146376436-e3ccaa68-b7a7-4874-990b-594d1f648481.png"><br>
 * 1명의 활성화된 사용자 즉, 작성자인 본인이 계속 check하면서 조회 중이므로 다음과 같이 뜬다.
-### [트래픽 보고서]
+[트래픽 보고서]
 <br><img width="1440" alt="추적상세" src="https://user-images.githubusercontent.com/96071948/146376641-a3e66e9a-7b3c-41c5-a4d3-6feaf4d11ed6.png"><br>
- 
+
+### google analytics가 잘 수행되고 있는 지 실험해보기.
+- 네이버 웨일과 구글로 동시에 다른 메뉴를 접속해보았다.
+[실험화면]
+<br><img width="1440" alt="추적 실험" src="https://user-images.githubusercontent.com/96071948/146378893-5e4d02dc-d3e2-4f20-b702-5db9401cdbc0.png"><br>
+[트래픽 보고서]
+<br><img width="1440" alt="추적 실험2" src="https://user-images.githubusercontent.com/96071948/146378933-c26878a5-38ea-46dd-8016-131207c74af2.png"><br>
+▶ 결과적으로 2명이 메뉴에 잘 접속한 것이 조회되며 google analytics 연동이 잘 된 것으로 확인된다.
